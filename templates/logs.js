@@ -108,7 +108,7 @@ module.exports = `<!DOCTYPE html5>
           <div class="col-xs-12 wrapper">
             <section class="content-page current">
               <div class="content-header">
-                <h1>Real-time Webtask Logs</h1>
+                <h1>Real-time Webtask Logs Tigo ID</h1>
                 <button class="btn btn-default pull-right js-full-screen">Full Screen Mode</button>
               </div>
             </section>
