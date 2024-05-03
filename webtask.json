@@ -1,6 +1,6 @@
 {
   "title": "Real-time Webtask Logs Tigo ID",
-  "name": "auth0-extension-realtime-logs-tigoid",
+  "name": "auth0-extension-realtime-logs",
   "version": "1.3.7",
   "preVersion": "1.3.6",
   "author": "Tigo ID",
